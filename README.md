@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya Aryaguna abi rafdi yasa.\
 
-Saya seorang Mahasiswa di UPN Veteran Jakarta.\
+Saya seorang Mahasiswa di [UPN Veteran Jakarta](https://www.upnvj.ac.id/).\
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
